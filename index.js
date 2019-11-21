@@ -1,4 +1,4 @@
 class Circle {
   constructor(radius)
-  this.radius = radius
+  this.radius = Math.PI * radius
 }
