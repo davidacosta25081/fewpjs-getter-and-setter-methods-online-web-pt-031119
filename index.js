@@ -1,6 +1,6 @@
 class Circle {
   constructor(radius) {
-  this.radius = radius * Math.PI * 2;
+  this.radius = radius ;
   }
 
 
