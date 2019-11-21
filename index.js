@@ -3,7 +3,7 @@ class Circle {
   this.radius = radius * Math.PI * 2;
   }
 
-  
+
 
   get diameter(){
     return `${this.radius}` * 2;
