@@ -4,7 +4,7 @@ class Circle {
   }
 
   get diameter() {
-    return `${this.radius} `* Math.PI * 2
+    return `${this.radius}` * Math.PI * 2
   }
 
 
