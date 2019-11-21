@@ -17,5 +17,11 @@ class Circle {
     return Math.PI * `${this.radius}`**2
   }
 
+  set diameter(number) {
+    this.radius = number / 2 ;
+  }  
+
+
+
 
 }
